@@ -1,5 +1,5 @@
 // import React from 'react'
- import "./App.css"
+//  import "./App.css"
 
 // export default function App() {
 //   return (
@@ -283,13 +283,24 @@
 //   );
 // }
 
+// import React from 'react'
+// import GemeniChat from "./components/GemeniChat"
+
+// export default function App() {
+//   return (
+//     <div>
+//       <GemeniChat/>
+//     </div>
+//   )
+// }
+
+
 import React from 'react'
-import GemeniChat from "./components/GemeniChat"
 
 export default function App() {
   return (
     <div>
-      <GemeniChat/>
+      
     </div>
   )
 }
