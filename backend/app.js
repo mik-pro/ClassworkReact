@@ -14,7 +14,7 @@ let nextId = 4;
 
 app.get('/cars', (req, res) => {
   const { model, owner, sort } = req.query;
-  let result = [...cars];
+  let result = [...cars];Ы
 
   
   if (model) {
